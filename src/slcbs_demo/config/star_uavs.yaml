@@ -1,0 +1,30 @@
+- uav_id: 0
+  start_pos: [10, 0]
+  goal_pos: [0, 0]
+- uav_id: 1
+  start_pos: [9.05, 2.94]
+  goal_pos: [0.95, -2.94]
+- uav_id: 2
+  start_pos: [6.55, 4.76]
+  goal_pos: [3.45, -4.76]
+- uav_id: 3
+  start_pos: [3.45, 4.76]
+  goal_pos: [6.55, -4.76]
+- uav_id: 4
+  start_pos: [0.95, 2.94]
+  goal_pos: [9.05, -2.94]
+- uav_id: 5
+  start_pos: [0, 0]
+  goal_pos: [10, 0]
+- uav_id: 6
+  start_pos: [0.95, -2.94]
+  goal_pos: [9.05, 2.94]
+- uav_id: 7
+  start_pos: [3.45, -4.76]
+  goal_pos: [6.55, 4.76]
+- uav_id: 8
+  start_pos: [6.55, -4.76]
+  goal_pos: [3.45, 4.76]
+- uav_id: 9
+  start_pos: [9.05, -2.94]
+  goal_pos: [0.95, 2.94]

@@ -1,0 +1,10 @@
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n0.yaml -s ./instances/result/5by5_agents6_obs20n0_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n1.yaml -s ./instances/result/5by5_agents6_obs20n1_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n2.yaml -s ./instances/result/5by5_agents6_obs20n2_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n3.yaml -s ./instances/result/5by5_agents6_obs20n3_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n4.yaml -s ./instances/result/5by5_agents6_obs20n4_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n5.yaml -s ./instances/result/5by5_agents6_obs20n5_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n6.yaml -s ./instances/result/5by5_agents6_obs20n6_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n7.yaml -s ./instances/result/5by5_agents6_obs20n7_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n8.yaml -s ./instances/result/5by5_agents6_obs20n8_result.yaml
+python3 test/visualize_exp2.py -m ./instances/OursBenchmark_exp2/5by5agents6/5by5_agents6_obs20n9.yaml -s ./instances/result/5by5_agents6_obs20n9_result.yaml

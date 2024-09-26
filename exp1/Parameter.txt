@@ -1,0 +1,30 @@
+ControlMode: ACC
+YawUse: 0
+U: 1
+SampleNum: 1
+Dt: 0.5
+MAX VEL: 2
+TOL POS: 0.5
+Energy Cost Weight: 1
+Time Cost Weight: 10
+Map Type: 3
+Heuristic Type: 0
+Motion Primitive Penalty: 0
+Yaw Motion Primitive Penalty: 0
+++++++++++++++++++++ env_base ++++++++++++++++++
++                  w: 10.00               +
++               wyaw: 1.00               +
++                 dt: 0.50               +
++              t_max: inf               +
++              v_max: 2.00               +
++              a_max: 1.00               +
++              j_max: -1.00               +
++            yaw_max: -1.00               +
++              U num: 9                +
++            tol_pos: 0.50               +
++            tol_vel: -1.00               +
++            tol_acc: -1.00               +
++            tol_yaw: -1.00               +
++heur_ignore_dynamics: 1                 +
+++++++++++++++++++++ env_base ++++++++++++++++++
+

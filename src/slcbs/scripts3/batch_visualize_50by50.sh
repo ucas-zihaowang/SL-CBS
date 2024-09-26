@@ -1,0 +1,132 @@
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n0.yaml -s ./instances/result/50by50_agents5_obs25n0_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n1.yaml -s ./instances/result/50by50_agents5_obs25n1_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n2.yaml -s ./instances/result/50by50_agents5_obs25n2_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n3.yaml -s ./instances/result/50by50_agents5_obs25n3_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n4.yaml -s ./instances/result/50by50_agents5_obs25n4_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n5.yaml -s ./instances/result/50by50_agents5_obs25n5_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n6.yaml -s ./instances/result/50by50_agents5_obs25n6_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n7.yaml -s ./instances/result/50by50_agents5_obs25n7_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n8.yaml -s ./instances/result/50by50_agents5_obs25n8_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n9.yaml -s ./instances/result/50by50_agents5_obs25n9_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n10.yaml -s ./instances/result/50by50_agents5_obs25n10_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n11.yaml -s ./instances/result/50by50_agents5_obs25n11_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n12.yaml -s ./instances/result/50by50_agents5_obs25n12_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n13.yaml -s ./instances/result/50by50_agents5_obs25n13_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n14.yaml -s ./instances/result/50by50_agents5_obs25n14_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n15.yaml -s ./instances/result/50by50_agents5_obs25n15_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n16.yaml -s ./instances/result/50by50_agents5_obs25n16_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n17.yaml -s ./instances/result/50by50_agents5_obs25n17_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n18.yaml -s ./instances/result/50by50_agents5_obs25n18_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n19.yaml -s ./instances/result/50by50_agents5_obs25n19_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n20.yaml -s ./instances/result/50by50_agents5_obs25n20_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n21.yaml -s ./instances/result/50by50_agents5_obs25n21_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n22.yaml -s ./instances/result/50by50_agents5_obs25n22_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n23.yaml -s ./instances/result/50by50_agents5_obs25n23_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n24.yaml -s ./instances/result/50by50_agents5_obs25n24_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n25.yaml -s ./instances/result/50by50_agents5_obs25n25_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n26.yaml -s ./instances/result/50by50_agents5_obs25n26_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n27.yaml -s ./instances/result/50by50_agents5_obs25n27_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n28.yaml -s ./instances/result/50by50_agents5_obs25n28_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents5/50by50_agents5_obs25n29.yaml -s ./instances/result/50by50_agents5_obs25n29_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n0.yaml -s ./instances/result/50by50_agents10_obs25n0_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n1.yaml -s ./instances/result/50by50_agents10_obs25n1_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n2.yaml -s ./instances/result/50by50_agents10_obs25n2_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n3.yaml -s ./instances/result/50by50_agents10_obs25n3_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n4.yaml -s ./instances/result/50by50_agents10_obs25n4_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n5.yaml -s ./instances/result/50by50_agents10_obs25n5_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n6.yaml -s ./instances/result/50by50_agents10_obs25n6_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n7.yaml -s ./instances/result/50by50_agents10_obs25n7_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n8.yaml -s ./instances/result/50by50_agents10_obs25n8_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n9.yaml -s ./instances/result/50by50_agents10_obs25n9_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n10.yaml -s ./instances/result/50by50_agents10_obs25n10_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n11.yaml -s ./instances/result/50by50_agents10_obs25n11_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n12.yaml -s ./instances/result/50by50_agents10_obs25n12_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n13.yaml -s ./instances/result/50by50_agents10_obs25n13_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n14.yaml -s ./instances/result/50by50_agents10_obs25n14_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n15.yaml -s ./instances/result/50by50_agents10_obs25n15_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n16.yaml -s ./instances/result/50by50_agents10_obs25n16_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n17.yaml -s ./instances/result/50by50_agents10_obs25n17_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n18.yaml -s ./instances/result/50by50_agents10_obs25n18_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n19.yaml -s ./instances/result/50by50_agents10_obs25n19_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n20.yaml -s ./instances/result/50by50_agents10_obs25n20_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n21.yaml -s ./instances/result/50by50_agents10_obs25n21_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n22.yaml -s ./instances/result/50by50_agents10_obs25n22_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n23.yaml -s ./instances/result/50by50_agents10_obs25n23_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n24.yaml -s ./instances/result/50by50_agents10_obs25n24_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n25.yaml -s ./instances/result/50by50_agents10_obs25n25_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n26.yaml -s ./instances/result/50by50_agents10_obs25n26_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n27.yaml -s ./instances/result/50by50_agents10_obs25n27_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n28.yaml -s ./instances/result/50by50_agents10_obs25n28_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents10/50by50_agents10_obs25n29.yaml -s ./instances/result/50by50_agents10_obs25n29_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n0.yaml -s ./instances/result/50by50_agents15_obs25n0_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n1.yaml -s ./instances/result/50by50_agents15_obs25n1_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n2.yaml -s ./instances/result/50by50_agents15_obs25n2_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n3.yaml -s ./instances/result/50by50_agents15_obs25n3_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n4.yaml -s ./instances/result/50by50_agents15_obs25n4_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n5.yaml -s ./instances/result/50by50_agents15_obs25n5_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n6.yaml -s ./instances/result/50by50_agents15_obs25n6_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n7.yaml -s ./instances/result/50by50_agents15_obs25n7_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n8.yaml -s ./instances/result/50by50_agents15_obs25n8_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n9.yaml -s ./instances/result/50by50_agents15_obs25n9_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n10.yaml -s ./instances/result/50by50_agents15_obs25n10_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n11.yaml -s ./instances/result/50by50_agents15_obs25n11_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n12.yaml -s ./instances/result/50by50_agents15_obs25n12_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n13.yaml -s ./instances/result/50by50_agents15_obs25n13_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n14.yaml -s ./instances/result/50by50_agents15_obs25n14_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n15.yaml -s ./instances/result/50by50_agents15_obs25n15_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n16.yaml -s ./instances/result/50by50_agents15_obs25n16_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n17.yaml -s ./instances/result/50by50_agents15_obs25n17_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n18.yaml -s ./instances/result/50by50_agents15_obs25n18_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n19.yaml -s ./instances/result/50by50_agents15_obs25n19_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n20.yaml -s ./instances/result/50by50_agents15_obs25n20_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n21.yaml -s ./instances/result/50by50_agents15_obs25n21_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n22.yaml -s ./instances/result/50by50_agents15_obs25n22_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n23.yaml -s ./instances/result/50by50_agents15_obs25n23_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n24.yaml -s ./instances/result/50by50_agents15_obs25n24_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n25.yaml -s ./instances/result/50by50_agents15_obs25n25_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n26.yaml -s ./instances/result/50by50_agents15_obs25n26_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n27.yaml -s ./instances/result/50by50_agents15_obs25n27_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n28.yaml -s ./instances/result/50by50_agents15_obs25n28_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents15/50by50_agents15_obs25n29.yaml -s ./instances/result/50by50_agents15_obs25n29_result.yaml
+
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n0.yaml -s ./instances/result/50by50_agents20_obs25n0_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n1.yaml -s ./instances/result/50by50_agents20_obs25n1_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n2.yaml -s ./instances/result/50by50_agents20_obs25n2_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n3.yaml -s ./instances/result/50by50_agents20_obs25n3_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n4.yaml -s ./instances/result/50by50_agents20_obs25n4_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n5.yaml -s ./instances/result/50by50_agents20_obs25n5_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n6.yaml -s ./instances/result/50by50_agents20_obs25n6_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n7.yaml -s ./instances/result/50by50_agents20_obs25n7_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n8.yaml -s ./instances/result/50by50_agents20_obs25n8_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n9.yaml -s ./instances/result/50by50_agents20_obs25n9_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n10.yaml -s ./instances/result/50by50_agents20_obs25n10_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n11.yaml -s ./instances/result/50by50_agents20_obs25n11_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n12.yaml -s ./instances/result/50by50_agents20_obs25n12_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n13.yaml -s ./instances/result/50by50_agents20_obs25n13_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n14.yaml -s ./instances/result/50by50_agents20_obs25n14_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n15.yaml -s ./instances/result/50by50_agents20_obs25n15_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n16.yaml -s ./instances/result/50by50_agents20_obs25n16_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n17.yaml -s ./instances/result/50by50_agents20_obs25n17_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n18.yaml -s ./instances/result/50by50_agents20_obs25n18_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n19.yaml -s ./instances/result/50by50_agents20_obs25n19_result.yaml
+
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n20.yaml -s ./instances/result/50by50_agents20_obs25n20_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n21.yaml -s ./instances/result/50by50_agents20_obs25n21_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n22.yaml -s ./instances/result/50by50_agents20_obs25n22_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n23.yaml -s ./instances/result/50by50_agents20_obs25n23_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n24.yaml -s ./instances/result/50by50_agents20_obs25n24_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n25.yaml -s ./instances/result/50by50_agents20_obs25n25_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n26.yaml -s ./instances/result/50by50_agents20_obs25n26_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n27.yaml -s ./instances/result/50by50_agents20_obs25n27_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n28.yaml -s ./instances/result/50by50_agents20_obs25n28_result.yaml
+# python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/map50by50/agents20/50by50_agents20_obs25n29.yaml -s ./instances/result/50by50_agents20_obs25n29_result.yaml

@@ -1,0 +1,19 @@
+<launch>
+
+    <arg name="map"  default="5by5_agents2_obs20n0" />
+
+    <arg name="root"  default="OursBenchmark_exp2/5by5agents2" />
+
+    <node pkg="slcbs" type="test_slcbs_demo_by_oursbenchmark" name="test_slcbs_demo_by_oursbenchmark_node" output="screen" cwd="node" required="true" >
+        
+        <param name="benchmark" type="string" value="$(find slcbs)/instances/$(arg root)/" />
+
+        <param name="mapname" type="string" value="$(arg map)" />
+        
+        <param name="parameterpath" type="string" value="$(find slcbs)/config/parameter_oursbenchmark.yaml" />
+
+        <param name="solutionspath" type="string" value="$(find slcbs)/instances/result/" />
+
+    </node>
+
+</launch>

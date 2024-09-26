@@ -1,0 +1,15 @@
+<launch>
+    
+    <node pkg="slcbs" type="test_slplanner_demo_by_corridor" name="test_slplanner_demo_by_corridor_node" output="screen" cwd="node">
+        
+        <param name="benchmark" type="string" value="$(find slcbs)/instances/benchmark/" />
+
+        <param name="mapname" type="string" value="corridor" />
+
+        <param name="parameterpath" type="string" value="$(find slcbs)/config/parameter_corridor.yaml" />
+
+        <param name="solutionspath" type="string" value="$(find slcbs)/instances/result/" />
+
+    </node>
+
+</launch>

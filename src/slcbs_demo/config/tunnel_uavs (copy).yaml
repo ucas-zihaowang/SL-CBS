@@ -1,0 +1,32 @@
+
+
+
+// tunnel, cross
+- uav_id: 0
+  start_pos: [0, -5]
+  goal_pos: [10, -5]
+- uav_id: 1
+  start_pos: [0, -2.5]
+  goal_pos: [10, -2.5]
+- uav_id: 2
+  start_pos: [0, 0]
+  goal_pos: [10, 0]
+- uav_id: 3
+  start_pos: [0, 2.5]
+  goal_pos: [10, 2.5]
+- uav_id: 4
+  start_pos: [0, 5]
+  goal_pos: [10, 5]
+
+  // swap-cross
+
+
+- uav_id: 2
+  start_pos: [0, 0]
+  goal_pos: [10, 0]
+- uav_id: 5
+  start_pos: [10, 0]
+  goal_pos: [0, 0]
+
+  
+

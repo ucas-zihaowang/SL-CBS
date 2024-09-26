@@ -1,0 +1,12 @@
+
+slcbs/：
+$ python3 test/visualize.py -m mappath -s resultpath
+
+
+python3 test/visualize.py -m ./instances/clcbsbenchmark/map50by50/agents5/obstacle/map_50by50_obst25_agents5_ex0.yaml -s ./instances/result/map_50by50_obst25_agents5_ex0_result.yaml
+
+python3 test/visualize.py -m ./instances/5by5_agents1_obs20.yaml -s ./instances/result/5by5_agents1_obs20_result.yaml
+
+python3 test/visualize.py -m ./instances/OursBenchmark/5by5agents2/5by5_agents2_obs20n0.yaml -s ./instances/result/5by5_agents2_obs20n0_result.yaml
+
+python3 test/visualize_exp3.py -m ./instances/OursBenchmark_exp3/agents5/50by50_agents5_obs25n0.yaml -s ./instances/result/50by50_agents5_obs25n0_result.yaml

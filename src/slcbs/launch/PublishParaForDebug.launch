@@ -1,0 +1,14 @@
+<launch>
+
+    <param name="benchmark" type="string" value="$(find slplanner_plus)/instances/benchmark/" />
+
+    <param name="parameterpath" type="string" value="$(find slplanner_plus)/config/parameter_corridor_with_yaw.yaml" />
+
+    <param name="solutionspath" type="string" value="$(find slplanner_plus)/instances/result/" />
+
+    <param name="mapname" type="string" value="corridor" />
+
+</launch>
+
+
+

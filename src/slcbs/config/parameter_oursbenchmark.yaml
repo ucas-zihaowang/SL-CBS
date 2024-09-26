@@ -1,0 +1,21 @@
+- ControlMode: "ACC"
+- YawUse: false
+- U: 2
+- U_YAW: 0.5
+- SampleNum: 4 # 1 , 2 , 4 , 8
+- Dt: 0.5 # 0.1
+- MAX_VEL: 0.5
+- MAX_ACC: 2.0
+- MAX_JRK: 1.0
+- MAX_YAW: 1.0
+- TOL_POS: 0.1 # adjust according to kinodynamic model
+- TOL_VEL: -1.0
+- TOL_ACC: -1.0
+- TOL_YAW: -1.0
+- WJ: 1
+- WT: 10
+- WYaw: 1
+- Map_Type: 2
+- Heur_Type: 0
+- MP_PENALTY: 0
+- YAWMP_PENALTY: 0

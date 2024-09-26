@@ -1,0 +1,22 @@
+<launch>
+    <arg name="debug" default="false"/>
+    <arg name="debug_valgrind" default="false"/>
+    <arg name="prefix" value="" unless="$(arg debug)"/>
+    <arg name="prefix" value="gdb -ex run --args" if="$(arg debug)"/>
+    
+    <!-- <arg name="test" default="slcbs_polymap"/> -->
+
+    <node pkg="slcbs_demo" type="slplanner_polymap" name="slplanner_polymap_node" launch-prefix="$(arg prefix)" output="screen">
+        
+        <param name="parameterpath" value="$(find slcbs_demo)/config/parameter_polymap.yaml"/>
+        
+        <!-- star_uavs: 1, tunnel_uavs : 2 -->
+        <param name="uavswarminitstatepath" value="$(find slcbs_demo)/config/one_uav.yaml"/>
+        <!-- <param name="uavswarminitstatepath" value="$(find slcbs_demo)/config/tunnel_uavs.yaml"/> -->
+        <param name="obstaclesconfig" value="1"/>
+
+    </node>
+
+    <!-- <node pkg="rviz" type="rviz" name="rviz" output="screen" args="-d $(find slcbs_demo)/launch/$(arg test)/test.rviz"/> -->
+
+</launch>

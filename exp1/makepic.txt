@@ -1,0 +1,5 @@
+rosbag play traj1.bag
+
+rosbag play --clock traj2.bag /slcbs_polymap_node/primitives:=/slcbs_polymap_node/primitives2 /slcbs_polymap_node/states:=/slcbs_polymap_node/states2
+
+rosbag play --clock traj3.bag /slcbs_polymap_node/primitives:=/slcbs_polymap_node/primitives3

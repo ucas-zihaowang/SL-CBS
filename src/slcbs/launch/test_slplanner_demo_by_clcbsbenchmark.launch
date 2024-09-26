@@ -1,0 +1,16 @@
+<launch>
+    
+    <node pkg="slcbs" type="test_slplanner_demo_by_clcbsbenchmark" name="test_slplanner_demo_by_clcbsbenchmark_node" output="screen" cwd="node">
+        
+        <!-- <param name="benchmark" type="string" value="$(find slcbs)/instances/clcbsbenchmark/map50by50/agents5/obstacle/" /> -->
+        <param name="benchmark" type="string" value="$(find slcbs)/instances/clcbsbenchmark/" />
+
+        <param name="mapname" type="string" value="map_50by50_obst25_agents5_ex0" />
+        
+        <param name="parameterpath" type="string" value="$(find slcbs)/config/parameter_clcbsbenchmark.yaml" />
+
+        <param name="solutionspath" type="string" value="$(find slcbs)/instances/result/" />
+
+    </node>
+
+</launch>
